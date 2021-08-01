@@ -3,6 +3,6 @@ Esta es la entrega del trabajo completo del modulo 1 -Creación de textos e Hipe
 
 <p>
 
-Mi CV puede descargarse de este link
+Mi CV puede descargarse de este link:
 <p>
-[CV Actualizado](CV)
+[CV Actualizado](CV.zip)
